@@ -1,0 +1,27 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+# Environment variables
+.env
+# Vendor directory (if using composer)
+/vendor/
+# IDE files
+.vscode/
+.idea/
+# Log files
+*.log
+# Cache files
+*.cache
